@@ -6,7 +6,7 @@ categories: [Networking, Fundamentals]
 tags: [cloud computing, IT Support]
 ---
 
-The Cloud - the ignomious term used ubiquitously in IT. But what is it?
+The Cloud - the mysterious term used ubiquitously in IT. But what is it?
 
 First of all, the cloud is short for "cloud computing." That's important because that's the nature of it--a concept of computational resources. Cloud computing refers to the delivery of computing services over the Internet. 
 
